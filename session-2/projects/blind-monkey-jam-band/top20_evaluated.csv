@@ -1,0 +1,21 @@
+rank,case_id,tier,score,review_outcome,new_diagnosis_gene,reason
+1,CASE_029,Review now,157.8,solved,ADNP,2 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 2 candidate(s) with strengthened gene-disease evidence; 2 other ClinVar reclassification(s); last analysed 3.7 y ago
+2,CASE_185,Review now,126.5,solved,SCN2A,1 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 3 other ClinVar reclassification(s); 4 new candidate(s); prior analysis incomplete (qc_fail); last analysed 4.1 y ago; phenotype_changes=NA treated as 0
+3,CASE_293,Review now,117.0,solved,ARID1B,1 ClinVar upgrade(s) to P/LP; 3 candidate(s) with strengthened gene-disease evidence; 1 other ClinVar reclassification(s); 2 new HPO term(s); last analysed 6.5 y ago
+4,CASE_215,Review now,113.0,solved,DDX3X,1 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 3 other ClinVar reclassification(s); 1 new HPO term(s); 1 new candidate(s); last analysed 6.4 y ago
+5,CASE_053,Review now,108.0,solved,PTPN11,1 new high-priority candidate(s); 2 other ClinVar reclassification(s); 1 new candidate(s); note: trio data now available (was singleton); prior analysis incomplete (partial_panel); last analysed 5.0 y ago
+6,CASE_234,Review now,107.9,solved,TSC2,1 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 3 new HPO term(s); 1 new candidate(s); last analysed 4.7 y ago
+7,CASE_086,Review now,107.0,solved,ADNP,1 ClinVar upgrade(s) to P/LP; 2 candidate(s) with strengthened gene-disease evidence; 1 other ClinVar reclassification(s); 3 new HPO term(s); last analysed 7.0 y ago
+8,CASE_171,Review now,105.0,solved,KMT2D,1 ClinVar upgrade(s) to P/LP; 1 candidate(s) with strengthened gene-disease evidence; 4 new HPO term(s); 3 new candidate(s); last analysed 7.4 y ago
+9,CASE_162,Review now,100.0,candidate_for_followup,,1 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 3 other ClinVar reclassification(s); last analysed 4.0 y ago
+10,CASE_006,Review now,90.0,solved,RYR1,1 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 1 other ClinVar reclassification(s); last analysed 5.8 y ago; hpo_term_count=NA (not scored)
+11,CASE_188,Review now,89.4,solved,GRIN2B,2 new high-priority candidate(s); 1 candidate(s) with strengthened gene-disease evidence; 3 new candidate(s); last analysed 4.6 y ago
+12,CASE_256,Review this cycle,87.0,no_change,,2 candidate(s) with strengthened gene-disease evidence; 1 other ClinVar reclassification(s); 5 new HPO term(s); 1 new candidate(s); last analysed 5.4 y ago
+13,CASE_018,Review now,85.4,candidate_for_followup,,1 ClinVar upgrade(s) to P/LP; 1 new high-priority candidate(s); 2 new candidate(s); last analysed 1.9 y ago
+14,CASE_251,Review now,80.1,candidate_for_followup,,1 new high-priority candidate(s); 3 candidate(s) with strengthened gene-disease evidence; 2 new candidate(s); last analysed 6.9 y ago; partially solved (x0.9)
+15,CASE_239,Review now,80.0,solved,KAT6A,1 new high-priority candidate(s); 2 candidate(s) with strengthened gene-disease evidence; 1 other ClinVar reclassification(s); 1 new candidate(s); last analysed 5.5 y ago
+16,CASE_134,Review now,79.0,no_change,,1 ClinVar upgrade(s) to P/LP; 1 other ClinVar reclassification(s); 4 new candidate(s); last analysed 6.2 y ago
+17,CASE_227,Review this cycle,79.0,solved,TCF4,2 candidate(s) with strengthened gene-disease evidence; 1 other ClinVar reclassification(s); 5 new HPO term(s); last analysed 5.6 y ago
+18,CASE_064,Review now,78.8,no_change,,2 new high-priority candidate(s); 4 new candidate(s); last analysed 4.2 y ago
+19,CASE_175,Review now,78.0,candidate_for_followup,,1 new high-priority candidate(s); 1 other ClinVar reclassification(s); 1 new candidate(s); prior analysis incomplete (partial_panel); last analysed 7.2 y ago
+20,CASE_298,Review now,78.0,solved,COL2A1,1 new high-priority candidate(s); 1 candidate(s) with strengthened gene-disease evidence; 2 other ClinVar reclassification(s); 2 new HPO term(s); 1 new candidate(s); last analysed 4.0 y ago
